@@ -53,10 +53,20 @@ cd .. : 뒤로가기
 **작업을 한 뒤**
 `$ git add .` (내가 작업한 내용 모두를 staging area 올리겠다.)
 
-`$ git commit -m '커밋명' (커밋하기)
+`$ git commit -m '커밋명' (커밋하기) 
 
 `$ git push origin master (푸쉬하기)
 
 
 
 
+##2024-06-26숙제
+
+1. Mtv 패턴 뭔지 알아보기.(100자)
+
+2. 관계형데이터베이스 조금 더 이해해보기
+
+3. 관계형 데이터베이스 종류들 그냥 한 번 보기.
+
+4. SQL(structured query language)이 뭔지 알아보기 3줄
+(50~60자이내로 정리하기)
